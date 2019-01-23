@@ -1,0 +1,246 @@
+    1  mkdir git-hello-world
+    2  cd git-hello-world
+    3  git-hello-world$
+    4  clear
+    5  clear
+    6  git help
+    7  create branch
+    8  clear
+    9  git init
+   10  ls-a
+   11  ls -a
+   12  clear
+   13  git status
+   14  echo "hello" > hello.txt
+   15  clear
+   16  cat hello.txt
+   17  clear
+   18  git status
+   19  git add hello.txt
+   20  git status
+   21  git commit -m "Add first hello file"
+   22   git config --global user.email "ptomaszewski@adres.pl"
+   23   git commit -m "Add first hello file"
+   24  get status
+   25  git status
+   26   git status
+   27  clear
+   28  git status
+   29  git help
+   30  checkout
+   31  clear
+   32  git help
+   33  stosh
+   34  git stash
+   35  clear
+   36  cd..
+   37  cd ..
+   38  cd documents
+   39  cd download
+   40  cd tompio
+   41  cd tompiotr
+   42  cd tompi
+   43  cd git hello world
+   44  cd git hello world
+   45  cd git hello world
+   46  cd git-hello-world
+   47  git status
+   48  git branch
+   49  ls
+   50  echo "hello2" >> hello.txt
+   51  cat hello.txt
+   52  git status
+   53  echo "hello3" > another-file.txt
+   54  ls
+   55  git status
+   56  git add add another-file.txt
+   57  git add another-file.txt
+   58  ls
+   59  git commit -m "Addnew line to file hello and create another file"
+   60  git status
+   61  git status
+   62  git add hello.txt
+   63  git status
+   64  git commit -m "Add modified file"
+   65  git status
+   66  clear
+   67  git status
+   68  ls
+   69  hello.txt
+   70  git hello.txt
+   71  git help
+   72  git show
+   73  git grep
+   74  ls -r
+   75  ls -a
+   76  ls -e
+   77  ls help
+   78  git help ls
+   79  git status
+   80  clear
+   81  git remote -v
+   82  git remote add origin https://github.com/Tompiotr62/repository.git
+   83  git remote -v
+   84  ls
+   85  git push -u origin master
+   86   git push -u origin master
+   87   git push -u origin master
+   88  git status
+   89  git branch -a
+   90  clean
+   91  cd..
+   92  cd ..
+   93  md nowy
+   94  git clone https://github.com/Tompiotr62/repository.git
+   95  git status
+   96  echo "hello5" .. hello.txt
+   97  git status
+   98  cd repository
+   99  echo "hello5" >> hello.txt
+  100  git status
+  101  git add hello.txt
+  102  git commit -m "trzecia linia"
+  103  git status
+  104  git push
+  105  cd ..
+  106  cd hello-git-world
+  107  cd git-hello-world
+  108  git log
+  109  git pull
+  110  ls
+  111  echo "helloz" >> another-file.txt
+  112  git add another-file.txt
+  113  git commit -m "linia plus"
+  114  cd ..
+  115  cd repository
+  116  echo "helloy" >> another-file.txt
+  117  git add another-file.txt
+  118  git commit -m "zmiana u user1"
+  119  git push
+  120  cd .. 
+  121  cd git-hello-world
+  122  git pull
+  123  git help
+  124  vim another-file.txt
+  125  vim another-file.txt
+  126  cd tompio
+  127  cd documents
+  128  cd git-hello-world
+  129  cd..
+  130  cd..
+  131  cd ..
+  132  cd ..
+  133  cd tompio
+  134  git pull
+  135  git status
+  136  git add another-file.txt
+  137  git commit -m "poprawa"
+  138  git status
+  139  git pull
+  140  git status
+  141  cd .. 
+  142  cd repository
+  143  git status
+  144  git pull
+  145  git status
+  146  git checkout
+  147  git push
+  148  git log --oneline
+  149  git checkout 9a8ced0
+  150  git checkout 8692b75
+  151  git checkout master
+  152  git status
+  153  git revert
+  154  git checkout --oneline
+  155  git log --oneline
+  156  git log
+  157  git log -- oneline
+  158  git log --grep "file"
+  159  git log
+  160  git checkout
+  161  git log --online --patch
+  162  git log --oneline --patch
+  163  git shortlog
+  164  echo "nowa linia" >> hello.txt  "Kolejna linia"
+  165  git status
+  166  git checkout views
+  167  git checkout .git
+  168  git branch -a
+  169  git push
+  170  git push -u
+  171  git branch develop
+  172  git checkout repository
+  173  git clone
+  174  git remote
+  175  git remote -v
+  176  git push
+  177  git merge origin/master
+  178  git status
+  179  git add
+  180  git add .
+  181  git commit
+  182  git status
+  183  git commit -m :Nowa linia dodana do hello.txt"
+  184  git status
+  185  git commit -m "Nowa linia dodana do hello.txt"
+  186  git merge master/origin
+  187  git push
+  188  git log
+  189  git merge
+  190  git merge origin/master
+  191  git status
+  192  git log --pretty=oneline
+  193  git checkout -f
+  194  git checkoue -f
+  195  git checkout -f
+  196  git checkout -f
+  197  git status
+  198  git fetch
+  199  git status
+  200  git short log -s -n
+  201  git shortlog -n -s
+  202  git reflog
+  203  echo "witaj" > witaj.txt
+  204  git status
+  205  git add
+  206  git add witaj.txt
+  207  git commit -m  "nowy kolejny plik"
+  208  git fetch
+  209  git pull
+  210  git push -u origin master
+  211  git status
+  212  git branch -a
+  213  git checkout -b dev
+  214  git status
+  215  git branch -a
+  216  git chceckout
+  217  git checkout
+  218  git checkout master
+  219  git checkout dev
+  220  git status
+  221  git log
+  222  git branch -a
+  223  git status
+  224  git add
+  225  git add witaj.txt
+  226  git commit -m "aktualizacja"
+  227  git log
+  228  git status
+  229  checkout master
+  230  git status
+  231  git log
+  232  checkout master
+  233  git checkout master
+  234  git log
+  235  git checkout dev
+  236  echo "d.dobry" > dobry.txt
+  237  echo "kolejny" > plik.txt
+  238  git status
+  239  git add dobry.txt plik.txt
+  240  git status
+  241  git commit -m "kolejne dwa pliki"
+  242  git status
+  243  git checkout master
+  244  git merge dev
+  245  history
+  246  history >commands.txt
